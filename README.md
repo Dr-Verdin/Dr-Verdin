@@ -25,8 +25,4 @@
   <a href="https://www.linkedin.com/in/camila-piscioneri-magalhães-5486732b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/Dr-Verdin/Dr-Verdin/blob/output/github-contribution-grid-snake-dark.svg)
-
-
-
-[![readme].(https://github-readme-stats.vercel.app/api/pin/?username=Dr-Verdin&repo=Dr-Verdin&theme=react).].(https://github.com/Dr-Verdin/Dr-Verdin).
+![snake gif](https://github.com/Dr-Verdin/Dr-Verdin/blob/output/github-contribution-grid-snake.gif)
