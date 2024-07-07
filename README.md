@@ -1,9 +1,9 @@
-## ✨Bem-vindo(a)✨
+## ✨Hello Word!✨
 
  <div>
    <a href="https://github.com/Dr-Verdin">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dr-Verdin&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-Verdin&layout=compact&langs_count=6&theme=merko"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dr-Verdin&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-Verdin&layout=compact&langs_count=6&theme=onedark"/>
 </div>
     
 <div style="display: inline_block"><br>
