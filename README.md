@@ -1,26 +1,53 @@
-## Hello Word!🌱
+# Olá! 👋
 
- <div>
-   <a href="https://github.com/Dr-Verdin">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dr-Verdin&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-Verdin&layout=compact&langs_count=6&theme=gruvbox"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-</div>
- 
-<br>
- 
-### ✨Me segue nas redes abaixo!✨
- 
-<div> 
-  <a href="https://instagram.com/camzz_psc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "camilapsc04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/camila-piscioneri-magalhães-5486732b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+Sou **Camila Piscioneri Magalhães**, estudante de **Ciência da Computação no ICMC-USP**, com foco em **Inteligência Artificial, Machine Learning e pesquisa**.
+
+Atualmente, desenvolvo pesquisa de iniciação científica envolvendo **Redes Neurais em Grafos (GNNs)** e **Large Language Models (LLMs)**, explorando abordagens para **classificação de imagens e aprendizado semissupervisionado**.
+
+Também tenho experiência com **desenvolvimento de software e aplicações web**, adquirida por meio de projetos acadêmicos e de extensão.
+
+## 🔬 Pesquisa
+
+Minha pesquisa explora a combinação de **informações visuais e textuais**, **GNNs** e **LLMs** para aprimorar tarefas de aprendizado de máquina.
+
+📄 **Artigo:** [Integrating Large Language Models and Graph Convolutional Networks for Semi-Supervised Image Classification](https://arxiv.org/abs/2607.09104)
+
+💻 **Código:** [llm-gcn-semisupervised-image-classification](https://github.com/Dr-Verdin/llm-gcn-semisupervised-image-classification)
+
+## 🛠️ Tecnologias
+
+### Inteligência Artificial & Machine Learning
+
+* Python
+* PyTorch
+* Machine Learning
+* Deep Learning
+* Large Language Models (LLMs)
+* Graph Neural Networks (GNNs)
+* Redes Neurais Convolucionais (CNNs)
+
+### Desenvolvimento
+
+* JavaScript
+* TypeScript
+* React
+* Node.js
+* NestJS
+* PostgreSQL
+* Prisma
+* Git
+
+### Outros
+
+* C
+* C++
+
+## 📌 Projetos em destaque
+
+- **[LLM + GCN para classificação de imagens](https://github.com/Dr-Verdin/llm-gcn-semisupervised-image-classification)** — pesquisa envolvendo GNNs e LLMs.
+- **[Capys](https://github.com/Dr-Verdin/capys-social-network)** — rede social para estudantes desenvolvida em equipe.
+- **[Incubadora Inteligente](https://github.com/Dr-Verdin/Incubadora-Inteligente)** — sistema com protocolo próprio e comunicação via TCP.
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/camila-piscioneri-magalhães-5486732b1/) · [Instagram](https://instagram.com/camzz_psc)
